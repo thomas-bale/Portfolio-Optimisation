@@ -26,7 +26,7 @@ The workflow is as follows:
 - call Brian's transaction api to get the trades
 - launch a meta mask pop up to execute trade (not implemented)
 
-these calls can be seen in [this script](https://github.com/TumCucTom/Quantum-AI-DeFi-Portfolio-Optimisation/blob/main/code/frontend/quantum-portfolio-optimisation/app/api/execute/route.ts)
+these calls can be seen in [this script](https://github.com/thomas-bale/Quantum-AI-DeFi-Portfolio-Optimisation/blob/main/code/frontend/quantum-portfolio-optimisation/app/api/execute/route.ts)
 
 ## Quantum Enhanced Analysis Tools
 
@@ -52,7 +52,7 @@ We obtain live transaction and liquidity data which could be used to fuel the ab
 
 Jesko is an explainable AI that helps users understand the quantum code and how these tools and features can help optimise their portfolio.
 
-Jesko has two workflows which can be seen [here](https://github.com/TumCucTom/Quantum-AI-DeFi-Portfolio-Optimisation/blob/main/code/frontend/quantum-portfolio-optimisation/app/api/jesko-main/route.ts) and [here](https://github.com/TumCucTom/Quantum-AI-DeFi-Portfolio-Optimisation/blob/main/code/frontend/quantum-portfolio-optimisation/app/api/jesko-code/route.ts)
+Jesko has two workflows which can be seen [here](https://github.com/thomas-bale/Quantum-AI-DeFi-Portfolio-Optimisation/blob/main/code/frontend/quantum-portfolio-optimisation/app/api/jesko-main/route.ts) and [here](https://github.com/thomas-bale/Quantum-AI-DeFi-Portfolio-Optimisation/blob/main/code/frontend/quantum-portfolio-optimisation/app/api/jesko-code/route.ts)
 
 You can interact with him [here](https://certainty-quantum.thomasbale.com/snippet) and [here](https://certainty-quantum.thomasbale.com/assistant)
 
